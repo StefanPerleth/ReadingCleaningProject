@@ -1,9 +1,9 @@
 # ReadingCleaningProject
 Needed files for reading and cleanung Project of Couseras data science training
 
-tydy.csv contains the data
-run_analysis.R the R script which was run under R Version 3.5.1
-CodeBook.md contains the original featture_info.txt plus the information about the variable in the file tidy.csv 
+tydy.csv contains the data.
+run_analysis.R the R script which was run under R Version 3.5.1.
+CodeBook.md contains the original featture_info.txt plus the information about the variable in the file tidy.csv .
 
 The run_analysis.R script downloads the file "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 and unzips it.
